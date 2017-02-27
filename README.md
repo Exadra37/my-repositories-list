@@ -64,6 +64,11 @@ Sometimes I get curious to play with some thing I found around or just want to p
 * [Dockerfiles](https://gitlab.com/exadra37-playground/dockerfiles)
 * [Docker Compose](https://gitlab.com/exadra37-playground/docker-compose)
 
+#### PHP 7
+
+* [Amazon Associates Search](https://gitlab.com/exadra37-playground/amazon-associates-search)
+
+
 #### Progressive Web Apps (PWA)
 
 * [Weather PWA](https://gitlab.com/exadra37-playground/weather-pwa)
